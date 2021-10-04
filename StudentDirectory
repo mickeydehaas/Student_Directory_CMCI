@@ -1,0 +1,645 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+<link rel="stylesheet" href="Directory.css">
+    <title>Student Directory</title>
+  </head>
+
+  <body>
+    <h1>Student Directory <span class="badge bg-secondary">CMCI STUDIO</span></h1>
+
+    <div class="input-group mb-3">        
+        <input id="filterInput" type="text" class="form-control" placeholder="Search names...">
+      </div>  
+
+    <!--Cohort 9-->
+    <h2>Cohort 9  <span class="badge bg-secondary">2017-2018</span></h2>
+
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Location</th>
+            <th scope="col">Portfolio</th>
+            <th scope="col">Company</th>
+            <th scope="col">LinkedIn</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Meredith Fong</td>
+            <td>Fairmount, NY</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Google</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+         </tr>
+
+          <tr>
+            <td>Aaron Meyerhoff</td>
+            <td>Red Bluff, CA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Apple</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Josh Adler</td>
+            <td>Athens, PA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Twitter</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Sarah Safranski</td>
+            <td>Boulevard Gardens, FL	</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Salesforce</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+        
+          <tr>
+            <td>Michelle Blake</td>
+            <td>Fort Gaines, GA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Amazon</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+
+          <tr>
+            <td>Jim Murphy</td>
+            <td>Greentown, IN</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Oracle</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+
+          <tr>
+            <td>Matt Isola</td>
+            <td>Gonzales, CA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Facebook</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Nikki Cavalier</td>
+            <td>Laurel Lake, NJ</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Google</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Erin Pfeifer</td>
+            <td>Avila Beach, CA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Google</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Nick Balderston</td>
+            <td>Poultney, VT</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Twitter</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+        
+          <tr>
+            <td>Rebekah Sosa</td>
+            <td>Bandon, OR</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Nike</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+
+          </tr>
+        </tbody>
+      </table>
+
+     <!--Cohort 10-->
+     <h2>Cohort 10  <span class="badge bg-secondary">2018-2019</span></h2>
+
+     <table class="table">
+         <thead>
+           <tr>
+             <th scope="col">Name</th>
+             <th scope="col">Location</th>
+             <th scope="col">Portfolio</th>
+             <th scope="col">Company</th>
+             <th scope="col">LinkedIn</th>
+           </tr>
+         </thead>
+ 
+         <tbody>
+           <tr>
+             <td>Diamond Alexander</td>
+             <td>Mission Bend, TX</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Addidas</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Robert Brazell</td>
+             <td>Naples, UT</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Patagonia</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Makenna Considine</td>
+             <td>Lafayette, TN</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>REI</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Jonas Escobedo</td>
+             <td>Strathmore, CA</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Salesforce</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+         
+           <tr>
+             <td>Allison Spiegel</td>
+             <td>Glenshaw, PA</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Twitter</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+ 
+           <tr>
+             <td>Sarah Cohen</td>
+             <td>Barnegat, NJ</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Uber</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+ 
+           <tr>
+             <td>Karen McClellan</td>
+             <td>Terra Mar, FL</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Netflix</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Kelly Phillips</td>
+             <td>Livermore, CA</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Uber</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Hanshu Zhou</td>
+             <td>Sheboygan, WI</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Hertz</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Rachael McAllister</td>
+             <td>Thomaston, ME</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Oracle</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+         
+         </tbody>
+       </table>
+
+       <!--Cohort 11-->
+     <h2>Cohort 11  <span class="badge bg-secondary">2019-2020</span></h2>
+
+     <table class="table">
+         <thead>
+           <tr>
+             <th scope="col">Name</th>
+             <th scope="col">Location</th>
+             <th scope="col">Portfolio</th>
+             <th scope="col">Company</th>
+             <th scope="col">LinkedIn</th>
+           </tr>
+         </thead>
+ 
+         <tbody>
+           <tr>
+             <td>Gia Almuaili</td>
+             <td>Ponder, TX</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Facebook</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Yvonne Danyluck</td>
+             <td>New Stanton, PA</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Google</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Vanessa Frye</td>
+             <td>Wilmette, IL</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Trek</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Min Kim</td>
+             <td>La Plata, MO</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Nike</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+         
+           <tr>
+             <td>Megan Kwiatkowski</td>
+             <td>Uvalde, TX</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Salesforce</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+ 
+           <tr>
+             <td>Nick Lunt</td>
+             <td>Kalamazoo, MI</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Microsoft</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+ 
+           <tr>
+             <td>Aitana Rothfeld</td>
+             <td>Arapaho, OK</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Nike</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Josh Sheetz</td>
+             <td>Warsaw, NC</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Puma</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Tess Stevens</td>
+             <td>Medina, WA</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>La Sportiva</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+ 
+           <tr>
+             <td>Caro Beresford-Wood</td>
+             <td>Princeton, TX</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Audi</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+         
+           <tr>
+             <td>Yeon Choi</td>
+             <td>Tell City, IN</td>
+             <td><a href="https://www.squarespace.com">Portofolio</a></td>
+             <td>Black Diamond</td>
+             <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+           </tr>
+
+           <tr>
+            <td>Steven Douglas</td>
+            <td>Ravensdale, WA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Apple</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Mark Grundberg</td>
+            <td>North Charleston, SC</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>BMW</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+        
+          <tr>
+            <td>Clayton Kenney</td>
+            <td>Beaver Dam, WI</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Trek</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Dave Laskowski</td>
+            <td>Whitehall, NY</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Fox</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+          <tr>
+           <td>Derek Palmer</td>
+           <td>Twin City, GA</td>
+           <td><a href="https://www.squarespace.com">Portofolio</a></td>
+           <td>Ford</td>
+           <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+         </tr>
+
+         <tr>
+           <td>Nicole Tang</td>
+           <td>Hillsboro, KS</td>
+           <td><a href="https://www.squarespace.com">Portofolio</a></td>
+           <td>Hertz</td>
+           <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+       
+         <tr>
+           <td>Yangmin Zhang</td>
+           <td>Park Ridge, IL</td>
+           <td><a href="https://www.squarespace.com">Portofolio</a></td>
+           <td>Delta</td>
+           <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+         </tr>
+
+         </tbody>
+       </table>
+
+    <!--Cohort 12-->
+    <h2>Cohort 12  <span class="badge bg-secondary">2020-2021</span></h2>
+
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Location</th>
+            <th scope="col">Portfolio</th>
+            <th scope="col">Company</th>
+            <th scope="col">LinkedIn</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Mark Banzhoff</td>
+            <td>Upland, PA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Apple</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Mateo Barroetavena</td>
+            <td>Rusk, TX</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Nike</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Cal Brackin</td>
+            <td>Gantt, SC</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Addidas</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Arielle Castro</td>
+            <td>Sutherland, NE</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Puma</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+        
+          <tr>
+            <td>Karlie Cronin</td>
+            <td>Feasterville, PA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Vail Resorts</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+
+          <tr>
+            <td>Hudson Fega</td>
+            <td>Rosemount, MN</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Walmart</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+
+          <tr>
+            <td>Bella Fidjeland</td>
+            <td>Montrose, MI</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Target</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Caleb Hammel</td>
+            <td>Arden Hills, MN</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>New York Times</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Natalie Jackson</td>
+            <td>Hillcrest, NY</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>HBO</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Cody King</td>
+            <td>Warren, MA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Showtime</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+        
+          <tr>
+            <td>Heather Kraft</td>
+            <td>Sun Valley, AZ</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>Trek</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+        
+            <tr>
+                <td>Katie Kreider</td>
+                <td>Sugar Hill, GA</td>
+                <td><a href="https://www.squarespace.com">Portofolio</a></td>
+                <td>Canyon</td>
+                <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+              </tr>
+    
+              <tr>
+                <td>Haley Mordini</td>
+                <td>Painesville, OH</td>
+                <td><a href="https://www.squarespace.com">Portofolio</a></td>
+                <td>Porsche</td>
+                <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+              </tr>
+    
+              <tr>
+                <td>Mye Ponrattanasiri</td>
+                <td>Pleasant Hill, OH</td>
+                <td><a href="https://www.squarespace.com">Portofolio</a></td>
+                <td>Toyota</td>
+                <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+              </tr>
+    
+              <tr>
+                <td>Devva Saunders</td>
+                <td>Westville, IN</td>
+                <td><a href="https://www.squarespace.com">Portofolio</a></td>
+                <td>NFL</td>
+                <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+            
+              <tr>
+                <td>Max Vecchitto</td>
+                <td>Sand Springs, OK</td>
+                <td><a href="https://www.squarespace.com">Portofolio</a></td>
+                <td>NASA</td>
+                <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+    
+              <tr>
+                <td>Jacque Walo</td>
+                <td>Emory, VA	</td>
+                <td><a href="https://www.squarespace.com">Portofolio</a></td>
+                <td>SpaceX</td>
+                <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+    
+              <tr>
+                <td>Yuan Zhuang</td>
+                <td>Luling, LA</td>
+                <td><a href="https://www.squarespace.com">Portofolio</a></td>
+                <td>Blue Origin</td>
+                <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+              </tr>
+
+          </tr>
+        </tbody>
+      </table>
+
+    <!--Cohort 13-->
+    <h2>Cohort 13  <span class="badge bg-secondary">2021-2022</span></h2>
+
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Location</th>
+            <th scope="col">Portfolio</th>
+            <th scope="col">Company</th>
+            <th scope="col">LinkedIn</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Alex Steele</td>
+            <td>Boulder, CO</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Mickey de Haas</td>
+            <td>Laren, NL</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>McKindsay Dow</td>
+            <td>Spokane, WA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Aaron McCoy</td>
+            <td>Canon City, CO</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+        
+          <tr>
+            <td>John ONeil</td>
+            <td>Auburn, AL</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+
+          <tr>
+            <td>Cameron Palmer</td>
+            <td>Denver, CO</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+
+          <tr>
+            <td>Caroline Pozo</td>
+            <td>Wildwood, MO</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Olivia Trujillo</td>
+            <td>San Francisco, CA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Trent Schultz</td>
+            <td>Denver, CO</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Sarah Jacobson</td>
+            <td>Atlanta, GA</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+        
+          <tr>
+            <td>Danny Shanahan</td>
+            <td>Boulder, CO</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+
+          <tr>
+            <td>Lily Kim</td>
+            <td>Boulder, CO</td>
+            <td><a href="https://www.squarespace.com">Portofolio</a></td>
+            <td>CMCI Studio</td>
+            <td><a href="https://www.linkedin.com/">LinkedIn</a></td>
+          </tr>
+        </tbody>
+      </table>
+
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous">
+    
+    </script>
+
+
+  </body>
+</html>
